@@ -1,5 +1,3 @@
 #New Project 
 
-This project was created from local system. 
-
-created by Vaishnavi Bhalekar
+This project was created from local system.created by Vaishnavi Bhalekar
